@@ -1,0 +1,1 @@
+console.log(getCerosIzquierda(1500,6));
