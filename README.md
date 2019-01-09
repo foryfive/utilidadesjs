@@ -1,5 +1,10 @@
 # utilidadesjs
 Funciones y métodos útiles JavaScript
 </hr>
-getCerosIzquierda(1500,7) == 0001500;
+<strong>
+  getCerosIzquierda(1500,7) == 0001500;
+  getCerosIzquierda("1500",7) == 0001500;
+</strong>
+
+
 
